@@ -11,13 +11,27 @@
 
 ### Required
 
-* Have the AI respond to user input
-* Do at least 3 different things
-* One of the commands must utilize the list of people in the class to send a reply
-* Use at least 1 conditional to change the response
+* Have the AI respond to user input (done) 
+* Do at least 3 different things (done)
+* One of the commands must utilize the list of people in the class to send a reply (done) 
+	use an array and a random person 
+* Use at least 1 conditional to change the response (DONE)
 * Leverage a for loop to iterate over a collection
-* Use a random component
-* Go above and beyond simple `if/else` statements
+* Use a random component (done
+	use an array and a random person 
+* Go above and beyond simple `if/else` statements (DONE ) 
+
+
+***if there is a command that hal doesn't recognize, use the class list and a random person from them to answer
+saying something to the effect of "i dont' know, as 'person' 
+
+two arrays, one of first names one for last names 
+use a for loop to concatinate them into a new array 
+then in the randomization pull from the new array. 
+
+
+
+
 
 ### Stretch Goals
 
